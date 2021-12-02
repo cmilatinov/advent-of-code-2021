@@ -1,0 +1,9 @@
+{
+    "name": "advent-of-code",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "start": "cd src/01 && node app2.js"
+    }
+}
